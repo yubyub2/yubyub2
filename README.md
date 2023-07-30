@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=80&section=header" />
 
 <details>
 <summary>
@@ -36,6 +36,4 @@
 <img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=black"> 
 </details>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=80&section=footer" />
