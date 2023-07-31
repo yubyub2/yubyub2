@@ -1,11 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=80&section=header" />
 
-## Hi ! 🙌 <br>
-I'm YUBIN. <br>
-
-
-
+<div align="center">
  
+## Hi ! I'm YUBIN. 🙌 <br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubyub2&layout=compact&theme=white">
+
+ </div>
 <details>
 <summary>
   
